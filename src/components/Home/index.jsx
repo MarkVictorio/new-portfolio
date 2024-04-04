@@ -10,7 +10,7 @@ return (
         <div className='w-6/12'>
             <div className="flex">
                 <h1 className="text-3xl text-[#9373ec]">I am Mark&nbsp;</h1>
-                <h1 className="text-3xl text-white">Victorio</h1>]
+                <h1 className="text-3xl text-white">Victorio</h1>
             </div>
 
             <p className="pt-2 text-white">
